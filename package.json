@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/exponentjs/react-native-url-handler.git"
   },
+  "contributors": [
+    {
+      "name": "Eugene Hauptmann",
+      "email": "e@eugenehp.de"
+    }
+  ],
   "keywords": [
     "url",
     "urlhandler",
